@@ -3,6 +3,7 @@
 ## Index
 
 [1. Preámbulo](#1-preámbulo)
+
 [2. Learning goals](#2-learning-goals)
 
 ## 1. Preamble
